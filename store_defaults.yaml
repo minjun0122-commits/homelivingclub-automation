@@ -1,0 +1,24 @@
+# 모든 상품에 공통으로 들어가는 스토어 설정
+# (기존 바디필로우 상품에서 가져온 값 — 상품 YAML 에 같은 항목을 적으면 그쪽이 우선)
+
+delivery:
+  company: CJGLS            # CJ대한통운
+  fee_type: FREE
+  base_fee: 0
+  # 상품 페이지에 그대로 보이는 "안내 문구" (금액을 실제로 청구하는 설정 아님)
+  area_extra_fee: 제주 및 도서산간 지역은 추가 배송비 5,000원이 발생합니다.
+  return_fee: 3500
+  exchange_fee: 7000
+  shipping_address_id: 200603090   # 출고지
+  return_address_id: 200603091     # 반품/교환지
+  bundle_group_id: 57394681        # 묶음배송 그룹 — 제주/도서산간 추가배송비 5,000원(2권역)이 이 그룹에 설정됨 (2026-09-29)
+                                   # 변경: PUT /v1/product-delivery-info/bundle-groups/57394681 또는 판매자센터 > 배송정보 관리
+
+after_service:
+  phone: "010XXXXXXXX"
+  guide: 상품 하자 및 불량 시 스마트스토어 톡톡 또는 고객센터로 문의 주시면 신속히 교환/환불 도와드리겠습니다.
+
+naver_detail:
+  taxType: TAX
+  purchaseReviewInfo: { purchaseReviewExposure: true }
+  itselfProductionProductYn: false

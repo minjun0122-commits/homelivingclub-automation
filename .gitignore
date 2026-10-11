@@ -1,0 +1,12 @@
+.env
+output/
+__pycache__/
+products/images/
+reels/fonts/
+reels/**/_frames/
+reels/**/src/
+*.mp4
+*.wav
+*.jpg
+*.png
+*.gif
