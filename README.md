@@ -1,5 +1,7 @@
 # 홈리빙클럽 — 1인 스마트스토어 운영 자동화
 
+[![CI](https://github.com/minjun0122-commits/homelivingclub-automation/actions/workflows/ci.yml/badge.svg)](https://github.com/minjun0122-commits/homelivingclub-automation/actions/workflows/ci.yml)
+
 네이버 스마트스토어 **홈리빙클럽**(위탁판매, 도매 공급처: 오너클랜)을 혼자 운영하면서 만든 도구 모음입니다.
 상품 등록 → 주문 감시·발주 안내 → 인스타그램 릴스·유튜브 쇼츠 제작까지, 반복 작업을 코드로 바꿨습니다.
 
@@ -148,6 +150,18 @@ pip install -r requirements.txt
 cp .env.example .env    # 커머스 API ID/시크릿, 텔레그램 봇 토큰 입력
 python register.py auth
 ```
+
+### 테스트
+
+```bash
+pip install pytest
+pytest -v
+```
+
+네이버·텔레그램 API를 부르지 않고 돌아가는 테스트 31개입니다. 푸시할 때마다 GitHub Actions에서 자동으로 실행됩니다.
+
+- `tests/test_register.py` — 등록 차단 규칙(TODO·중복 등록·재고 0·이미지 누락 등), 경고 규칙, 네이버 등록 데이터 조립, 저장소의 실제 상품 YAML이 조립되는지
+- `tests/test_order_watch.py` — 주문 1건 → 오너클랜 발주 안내 문구 (수량 배수, 옵션명 변환, 세트 상품 분할 발주, 규칙 누락 경고), 텔레그램 알림 문구
 
 - 상품 사진(`products/images/`), 글꼴(`reels/fonts/`), 결과 영상, 주문 기록·백업(`output/`), 개인 설정(`.claude/settings.local.json`)은 저작권·개인정보 때문에 저장소에 넣지 않았습니다.
   릴스 스크립트는 해당 이미지와 Pretendard 글꼴이 있어야 실행됩니다.
