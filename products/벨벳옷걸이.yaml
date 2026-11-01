@@ -1,0 +1,91 @@
+# 모넌 벨벳 슬림 논슬립 옷걸이 10개입 (오너클랜 W9BF414) — 공급사: 테이포프주식회사 / 제조·수입: 펀타스틱
+# 원가: 10개입 5,550원(멤버십가) + 배송 2,500원 = 8,050원 (묶음배송 10개까지 배송비 1번)  (2026-10-01 확인)
+#       20개(10개입 x2) = 11,100 + 2,500 = 13,600원
+# 시세 참고: 쿠팡 저가형 벨벳 옷걸이 10개 3,350~6,900원 → 가격 경쟁보다 사진·릴스(두께 0.5cm 정보형)로 승부
+# 사이즈: W41.8 x H23cm, 두께 0.5cm, 360° 회전고리, 어깨 홈, 하단 바지걸이
+
+# 2026-10-01 등록 완료 — 채널상품번호 13783598298 (원상품번호 13722553533)
+already_registered: true
+channel_product_no: 13783598298
+
+ownerclan_code: W9BF414
+order_rule:
+  option_orders:              # 주문 1건당 오너클랜 발주 내용 (order_watch.py 가 알림에 표시)
+    연그레이 10개:
+      - { code: W9BF414, option: 연그레이 10p, qty: 1 }
+    블랙 10개:
+      - { code: W9BF414, option: 블랙 10p, qty: 1 }
+    연그레이 20개:
+      - { code: W9BF414, option: 연그레이 10p, qty: 2 }
+    블랙 20개:
+      - { code: W9BF414, option: 블랙 10p, qty: 2 }
+
+name: 벨벳 옷걸이 10개 슬림 논슬립 미끄럼방지 회전 옷걸이 니트 어깨뿔방지
+category_id: 50002472   # 생활/건강>수납/정리용품>옷걸이>일반옷걸이
+
+cost: 8050
+price: 9900
+
+tags: [벨벳옷걸이, 슬림옷걸이, 논슬립옷걸이, 미끄럼방지옷걸이, 회전옷걸이, 옷장정리, 자취템, 공간절약옷걸이, 니트옷걸이]
+
+options:
+  group_name: 색상/수량
+  items:
+    - { name: 연그레이 10개, stock: 99 }
+    - { name: 블랙 10개,     stock: 99 }
+    - { name: 연그레이 20개, stock: 99, extra_price: 4900 }   # 원가 13,600
+    - { name: 블랙 20개,     stock: 99, extra_price: 4900 }
+
+images:
+  main: images/hanger/main.jpg
+  extra:
+    - images/hanger/extra_1.jpg
+    - images/hanger/extra_2.jpg
+    - images/hanger/extra_3.jpg
+    - images/hanger/extra_4.jpg
+    - images/hanger/extra_colors.jpg
+    - images/hanger/extra_size.jpg
+  detail:
+    - images/hanger/detail_01.jpg
+    - images/hanger/detail_02.jpg
+    - images/hanger/detail_03.jpg
+    - images/hanger/detail_04.jpg
+    - images/hanger/detail_05.jpg
+    - images/hanger/detail_06.jpg
+    - images/hanger/detail_07.jpg
+    - images/hanger/detail_08.jpg
+    - images/hanger/detail_09.jpg
+    - images/hanger/detail_10.jpg
+    - images/hanger/detail_11.jpg
+    - images/hanger/detail_12.jpg
+    - images/hanger/detail_13.jpg
+
+detail_html_top: '<div style="text-align:center;font-size:16px;line-height:1.7;padding:20px 0;"><b style="font-size:19px;">두께 0.5cm 벨벳 슬림 옷걸이</b><br />옷이 미끄러지지 않는 벨벳 소재 · 360° 회전고리 · 어깨 홈 · 하단 바지걸이<br />사이즈: 가로 41.8cm × 높이 23cm × 두께 0.5cm<br />10개 / 20개 중 선택 (20개는 10개입 2묶음으로 발송돼요)</div>'
+
+naver_detail:
+  manufactureDefineNo: W9BF414
+  naverShoppingSearchInfo:
+    manufacturerName: 펀타스틱
+    brandName: 모넌
+    catalogMatchingYn: false
+  originAreaInfo:
+    originAreaCode: "0200037"
+    importer: 펀타스틱
+    content: 중국산(펀타스틱)
+    plural: false
+  certificationTargetExcludeContent:
+    kcCertifiedProductExclusionYn: "TRUE"   # 오너클랜 허가 관련: 해당없음
+  sellerCommentUsable: true
+  sellerCommentContent: 두께 0.5cm 벨벳 옷걸이입니다. 20개 옵션은 10개입 2묶음으로 발송됩니다. 측정 방법에 따라 약간의 오차, 모니터 설정에 따라 색상 차이가 있을 수 있습니다.
+  productInfoProvidedNotice:
+    productInfoProvidedNoticeType: ETC
+    etc:
+      returnCostReason: "0"
+      noRefundReason: "0"
+      qualityAssuranceStandard: "0"
+      compensationProcedure: "0"
+      troubleShootingContents: "0"
+      itemName: 벨벳 논슬립 옷걸이 10개입 (41.8 x 23cm, 두께 0.5cm)
+      modelName: 모넌 벨벳 논슬립 옷걸이
+      manufacturer: 펀타스틱 / 중국
+      customerServicePhoneNumber: "010XXXXXXXX"

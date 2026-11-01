@@ -1,0 +1,98 @@
+# 키밍 마사지 머리빗 (샴푸 브러시) (오너클랜 WFMRWJC) — 공급사: (주)오너클랜 / 키밍 (리뷰 1건 평점 5.0)
+# 원가: 6,400원(멤버십가) + 배송 3,000원 = 9,400원 / 2개 = 12,800 + 3,000 = 15,800원 (묶음배송 무제한)  (2026-10-01 확인)
+# 시세 참고: 쿠팡 샴푸 브러시 6,900~11,900원 → 사진 감성 + 2개 색상 세트로 차별화
+# ⚠️ 효능 표현 금지: 탈모·두피건강·혈액순환 등 X → "시원한 세정감·거품" 정도만
+# 사이즈 9.4 x 7 x 6.5cm, ABS + TPR(실리콘 돌기 31개), 건식·습식 사용
+
+# 2026-10-01 등록 완료 — 채널상품번호 13783631865 (원상품번호 13722586612)
+already_registered: true
+channel_product_no: 13783631865
+
+ownerclan_code: WFMRWJC
+order_rule:
+  option_orders:
+    옐로우 1개: [{ code: WFMRWJC, option: 옐로우, qty: 1 }]
+    네이비 1개: [{ code: WFMRWJC, option: 네이비, qty: 1 }]
+    화이트 1개: [{ code: WFMRWJC, option: 화이트, qty: 1 }]
+    핑크 1개:   [{ code: WFMRWJC, option: 핑크, qty: 1 }]
+    2개 세트 옐로우+네이비:
+      - { code: WFMRWJC, option: 옐로우, qty: 1 }
+      - { code: WFMRWJC, option: 네이비, qty: 1 }
+    2개 세트 핑크+화이트:
+      - { code: WFMRWJC, option: 핑크, qty: 1 }
+      - { code: WFMRWJC, option: 화이트, qty: 1 }
+    2개 세트 네이비+핑크:
+      - { code: WFMRWJC, option: 네이비, qty: 1 }
+      - { code: WFMRWJC, option: 핑크, qty: 1 }
+    2개 세트 옐로우+화이트:
+      - { code: WFMRWJC, option: 옐로우, qty: 1 }
+      - { code: WFMRWJC, option: 화이트, qty: 1 }
+
+name: 샴푸 브러시 실리콘 두피 머리감기 브러쉬 샴푸빗 파스텔 4색 커플 세트
+category_id: 50004396   # 화장품/미용>뷰티소품>헤어소품>헤어브러시
+
+cost: 9400
+price: 12900
+
+tags: [샴푸브러시, 샴푸빗, 두피브러시, 실리콘브러시, 머리감기, 샴푸브러쉬, 자취템, 커플선물, 욕실소품]
+
+options:
+  group_name: 색상/구성
+  items:
+    - { name: 옐로우 1개, stock: 99 }
+    - { name: 네이비 1개, stock: 99 }
+    - { name: 화이트 1개, stock: 99 }
+    - { name: 핑크 1개,   stock: 99 }
+    - { name: 2개 세트 옐로우+네이비, stock: 99, extra_price: 6400 }   # 원가 15,800 (추가금 최대 50% = 6,450)
+    - { name: 2개 세트 핑크+화이트,   stock: 99, extra_price: 6400 }
+    - { name: 2개 세트 네이비+핑크,   stock: 99, extra_price: 6400 }
+    - { name: 2개 세트 옐로우+화이트, stock: 99, extra_price: 6400 }
+
+images:
+  main: images/shampoobrush/main.jpg
+  extra:
+    - images/shampoobrush/extra_colors.jpg
+    - images/shampoobrush/cand_b.jpg
+    - images/shampoobrush/extra_1.jpg
+    - images/shampoobrush/extra_3.jpg
+    - images/shampoobrush/extra_2.jpg
+  detail:
+    - images/shampoobrush/detail_01.jpg
+    - images/shampoobrush/detail_02.jpg
+    - images/shampoobrush/detail_03.jpg
+    - images/shampoobrush/detail_04.jpg
+    - images/shampoobrush/detail_05.jpg
+    - images/shampoobrush/detail_06.jpg
+    - images/shampoobrush/detail_07.jpg
+    - images/shampoobrush/detail_08.jpg
+    - images/shampoobrush/detail_09.jpg
+
+detail_html_top: '<div style="text-align:center;font-size:16px;line-height:1.7;padding:20px 0;"><b style="font-size:19px;">파스텔 샴푸 브러시</b><br />부드러운 실리콘 돌기 31개 · 손에 쥐기 편한 버섯 모양 · 건식/습식 사용<br />사이즈 9.4 × 7 × 6.5cm · ABS + TPR<br />1개 또는 2개 색상 세트로 선택하세요 (2개 세트는 함께 발송돼요)</div>'
+
+naver_detail:
+  manufactureDefineNo: WFMRWJC
+  naverShoppingSearchInfo:
+    manufacturerName: 키밍
+    brandName: 키밍
+    catalogMatchingYn: false
+  originAreaInfo:
+    originAreaCode: "0200037"
+    importer: (주)오너클랜
+    content: 중국산((주)오너클랜)
+    plural: false
+  certificationTargetExcludeContent:
+    kcCertifiedProductExclusionYn: "TRUE"   # 오너클랜 허가 관련: 인증대상아님
+  sellerCommentUsable: true
+  sellerCommentContent: 실리콘 샴푸 브러시입니다. 사용 후 물기를 털어 건조해 주세요. 모니터 설정에 따라 색상 차이가 있을 수 있습니다.
+  productInfoProvidedNotice:
+    productInfoProvidedNoticeType: ETC
+    etc:
+      returnCostReason: "0"
+      noRefundReason: "0"
+      qualityAssuranceStandard: "0"
+      compensationProcedure: "0"
+      troubleShootingContents: "0"
+      itemName: 실리콘 샴푸 브러시 (9.4 x 7 x 6.5cm, ABS+TPR)
+      modelName: 키밍 마사지 머리빗 KM1165-33
+      manufacturer: 키밍 / 중국
+      customerServicePhoneNumber: "010XXXXXXXX"

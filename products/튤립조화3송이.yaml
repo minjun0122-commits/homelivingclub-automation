@@ -1,0 +1,82 @@
+# 튤립 조화 3송이 세트 (오너클랜 WFKL6CY — 공급사 파니펀, 한 송이 단위 상품)
+# ⚠️ 발주 방법: 주문 1건 = 오너클랜에 "같은 색상 3개" 주문 (배송비 3,000원은 묶음배송이라 1번만)
+# 원가: 1,260원 × 3 + 배송비 3,000원 = 6,780원  (2026-09-29 확인, 멤버십가 1,190원이면 6,570원)
+# 줄기 34cm, PU 소재, 철사 내장(구부림 가능), 원산지 중국, 인증·허가 해당없음 (공급사 상세 고시 기준)
+
+# 2026-09-29 등록 완료 — 채널상품번호 13780208724 (원상품번호 13719194071)
+already_registered: true
+
+ownerclan_code: WFKL6CY
+channel_product_no: 13780208724
+order_rule:
+  qty_per_unit: 3          # 1세트 팔리면 오너클랜에 같은 색 3개 발주
+name: 튤립 조화 3송이 세트 인테리어 꽃 PU 생화같은 인조꽃 자취방 꽃꽂이
+category_id: 50001806   # 생활/건강>원예/식물>조화
+
+cost: 6780
+price: 9900
+
+tags: [튤립조화, 조화튤립, 인조꽃, 조화꽃꽂이, 자취방인테리어, 원룸인테리어, 화병꽃, 감성소품, 집들이선물]
+
+options:
+  group_name: 색상 (3송이)
+  items:
+    - { name: 연핑크, stock: 99 }
+    - { name: 노랑,   stock: 99 }
+    - { name: 빨강,   stock: 99 }
+    - { name: 파랑,   stock: 99 }
+
+images:
+  main: images/tulip/main.jpg
+  extra:
+    - images/tulip/extra_pink.jpg
+    - images/tulip/extra_yellow.jpg
+    - images/tulip/extra_red.jpg
+    - images/tulip/extra_blue.jpg
+    - images/tulip/stem_yellow.jpg
+    - images/tulip/stem_blue.jpg
+    - images/tulip/stem_red.jpg
+  detail:
+    - images/tulip/src_01.jpg
+    - images/tulip/src_02.jpg
+    - images/tulip/src_03.jpg
+    - images/tulip/src_04.jpg
+    - images/tulip/src_05.jpg
+    - images/tulip/src_d_01_1.jpg
+    - images/tulip/src_d_01_2.jpg
+    - images/tulip/src_d_02_1.jpg
+    - images/tulip/src_d_02_2.jpg
+    - images/tulip/src_d_03_1.jpg
+    - images/tulip/src_d_03_2.jpg
+    - images/tulip/src_d_04_1.jpg
+    - images/tulip/src_d_04_2.jpg
+
+detail_html_top: '<div style="text-align:center;font-size:16px;line-height:1.7;padding:20px 0;"><b style="font-size:19px;">※ 같은 색 튤립 3송이 세트 상품입니다</b><br />연출 사진의 꽃다발은 여러 송이를 모은 모습이에요.<br />아래 상세 이미지의 "한 송이" 표기는 1송이 기준 설명이며, 이 상품은 3송이가 함께 배송됩니다.<br /><br />줄기 길이 약 34cm · PU 소재 · 줄기 속 철사로 구부려 높이 조절 가능<br />(홈리빙클럽 웨이브 미니 화병처럼 낮은 화병에는 줄기를 구부려 연출해 주세요)</div>'
+
+# 배송 / A/S 는 store_defaults.yaml 공통값 사용
+
+naver_detail:
+  manufactureDefineNo: WFKL6CY
+  naverShoppingSearchInfo:
+    catalogMatchingYn: false
+  originAreaInfo:
+    originAreaCode: "0200037"
+    importer: 중국
+    content: 중국산(중국)
+    plural: false
+  certificationTargetExcludeContent:
+    kcCertifiedProductExclusionYn: "TRUE"
+  sellerCommentUsable: true
+  sellerCommentContent: 같은 색 튤립 3송이 세트입니다(연출 사진의 꽃다발은 여러 송이를 모은 모습). 줄기 약 34cm, 측정 방법에 따라 1~2cm 오차가 있을 수 있으며 모니터 설정에 따라 색상이 다르게 보일 수 있습니다.
+  productInfoProvidedNotice:
+    productInfoProvidedNoticeType: ETC
+    etc:
+      returnCostReason: "0"
+      noRefundReason: "0"
+      qualityAssuranceStandard: "0"
+      compensationProcedure: "0"
+      troubleShootingContents: "0"
+      itemName: 튤립 조화 3송이 세트 (PU, 줄기 약 34cm)
+      modelName: 조화 튤립 한 송이 x 3
+      manufacturer: 중국 수입제품
+      customerServicePhoneNumber: "010XXXXXXXX"

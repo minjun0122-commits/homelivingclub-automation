@@ -1,0 +1,86 @@
+# 웨이브 미니 화병 (오너클랜 WFPOSIT) — 공급사: 또와상회
+# 원가: 상품 3,670원(멤버십가) + 공급사 배송비 3,000원 = 6,670원  (2026-09-29 확인)
+# ⚠️ 플라스틱 소재, 물을 직접 담을 수 없음 (조화·드라이플라워 전용) — 상품명/상세에 명시해서 반품 방지
+
+# 2026-09-29 등록 완료 — 채널상품번호 13780098546 (원상품번호 13719085277)
+already_registered: true
+
+ownerclan_code: WFPOSIT
+channel_product_no: 13780098546
+order_rule:
+  option_map: { 그레이: 블랙 }   # 스토어 "그레이" = 오너클랜 "블랙"
+name: 웨이브 미니 화병 오브제 플라스틱 꽃병 조화 드라이플라워 인테리어 소품
+category_id: 50001071   # 가구/인테리어>인테리어소품>화병
+
+cost: 6670
+price: 12900
+
+# 네이버 등록불가 태그: 꽃병, 인테리어소품, 집꾸미기 (2026-09-29 거부됨)
+tags: [미니화병, 웨이브화병, 플라스틱화병, 조화화병, 드라이플라워화병, 감성소품, 자취방인테리어, 원룸인테리어, 집들이선물]
+
+options:
+  group_name: 색상
+  items:
+    - { name: 화이트, stock: 99 }
+    - { name: 핑크,   stock: 99 }
+    - { name: 옐로우, stock: 99 }
+    - { name: 그레이, stock: 99 }   # 오너클랜 옵션명은 "블랙"이지만 실제 색은 진회색 — 주문 시 "블랙"으로 발주
+
+images:
+  main: images/minivase/main.jpg
+  extra:
+    - images/minivase/extra_lineup.jpg
+    - images/minivase/extra_white.jpg
+    - images/minivase/extra_pink.jpg
+    - images/minivase/extra_yellow.jpg
+    - images/minivase/extra_black.jpg
+    - images/minivase/extra_size.jpg
+  detail:
+    - images/minivase/detail_01.jpg
+    - images/minivase/detail_02.jpg
+    - images/minivase/detail_03.jpg
+    - images/minivase/detail_04.jpg
+    - images/minivase/detail_05.jpg
+    - images/minivase/detail_06.jpg
+    - images/minivase/detail_07.jpg
+    - images/minivase/detail_08.jpg
+    - images/minivase/detail_09.jpg
+    - images/minivase/detail_10.jpg
+    - images/minivase/detail_11.jpg
+    - images/minivase/detail_12.jpg
+    - images/minivase/detail_13.jpg
+    - images/minivase/detail_14.jpg
+    - images/minivase/detail_15.jpg
+    - images/minivase/detail_16.jpg
+
+detail_html_top: '<p style="text-align:center;font-size:16px;padding:16px 0;"><b>※ 플라스틱 소재로 물을 직접 담을 수 없어요.</b><br />조화·드라이플라워 전용 화병입니다. (높이 14.5cm / 폭 12cm)</p>'
+
+# 배송 / A/S 는 store_defaults.yaml 공통값 사용
+
+naver_detail:
+  manufactureDefineNo: WFPOSIT
+  naverShoppingSearchInfo:
+    manufacturerName: 머피스토어_협력사
+    catalogMatchingYn: false
+  originAreaInfo:
+    originAreaCode: "0200037"
+    importer: 중국
+    content: 중국산(중국)
+    plural: false
+  # 오너클랜 인증란은 "생활용품 공급자적합성확인"인데 상세페이지 표기는 "인증허가 해당사항 없음" — 공급사 확인 권장
+  certificationTargetExcludeContent:
+    kcCertifiedProductExclusionYn: "TRUE"
+  sellerCommentUsable: true
+  sellerCommentContent: 플라스틱 소재로 물을 직접 담을 수 없습니다(조화·드라이플라워 전용). 측정 방법에 따라 1~2cm 오차가 있을 수 있으며, 모니터 설정에 따라 색상이 다르게 보일 수 있습니다.
+  productInfoProvidedNotice:
+    productInfoProvidedNoticeType: ETC
+    etc:
+      returnCostReason: "0"
+      noRefundReason: "0"
+      qualityAssuranceStandard: "0"
+      compensationProcedure: "0"
+      troubleShootingContents: "0"
+      itemName: 웨이브 꽃병 (플라스틱, 높이 14.5cm x 폭 12cm)
+      modelName: DDMZ14990
+      manufacturer: 머피스토어_협력사 / 중국
+      customerServicePhoneNumber: "010XXXXXXXX"

@@ -1,0 +1,65 @@
+# 일본 사나다 전자레인지 계란후라이 메이커 (오너클랜 WFPL5G3) — 공급사: 올댓팩토리
+# 원가: 3,200원 + 배송 3,000원 = 6,200원  (2026-10-27 확인)
+# 계란을 깨서 넣는 타입 (쿠팡 2칸 4개 세트 대비 1개 단품), 일본산 폴리프로필렌, 내열 140℃
+
+# 2026-10-27 등록 완료 — 채널상품번호 13834904036 (원상품번호 13773508931)
+already_registered: true
+channel_product_no: 13834904036
+
+ownerclan_code: WFPL5G3
+order_rule: {}
+
+name: 일본산 전자레인지 계란후라이 메이커 1구 에그쿠커 자취 간편 계란요리
+category_id: 50004772   # 생활/건강>주방용품>조리기구>계란찜기/계란틀
+
+cost: 6200
+price: 7900
+
+tags: [계란후라이메이커, 전자레인지계란후라이, 에그메이커, 에그쿠커, 전자레인지계란, 자취요리, 자취템, 계란요리, 일본주방용품]
+
+stock: 99
+
+images:
+  main: images/eggfry/main.jpg
+  extra:
+    - images/eggfry/extra_1.jpg
+    - images/eggfry/extra_2.jpg
+  detail:
+    - images/eggfry/detail_01.jpg
+    - images/eggfry/detail_02.jpg
+    - images/eggfry/detail_03.jpg
+    - images/eggfry/detail_04.jpg
+    - images/eggfry/detail_05.jpg
+    - images/eggfry/detail_06.jpg
+    - images/eggfry/detail_07.jpg
+    - images/eggfry/detail_08.jpg
+    - images/eggfry/detail_09.jpg
+
+detail_html_top: '<p style="text-align:center;font-size:16px;padding:16px 0;"><b>계란 1개를 깨서 넣고 뚜껑 덮어 전자레인지에 돌리는 1구 계란후라이 메이커예요.</b><br />일본산 · 폴리프로필렌 · 10.4 x 14.2 x 5.3cm · 80g</p>'
+
+naver_detail:
+  manufactureDefineNo: WFPL5G3
+  naverShoppingSearchInfo:
+    manufacturerName: SanadaSeiko
+    catalogMatchingYn: false
+  originAreaInfo:
+    originAreaCode: "0200036"
+    importer: 올댓팩토리
+    content: 일본산(올댓팩토리)
+    plural: false
+  certificationTargetExcludeContent:
+    kcCertifiedProductExclusionYn: "TRUE"
+  sellerCommentUsable: true
+  sellerCommentContent: 전자레인지 출력과 계란 크기에 따라 조리 시간이 달라질 수 있어요. 노른자는 터지지 않도록 이쑤시개로 살짝 찔러주세요. 사용 직후에는 뜨거우니 손잡이를 잡아주세요.
+  productInfoProvidedNotice:
+    productInfoProvidedNoticeType: ETC
+    etc:
+      returnCostReason: "0"
+      noRefundReason: "0"
+      qualityAssuranceStandard: "0"
+      compensationProcedure: "0"
+      troubleShootingContents: "0"
+      itemName: 전자레인지 계란후라이 메이커 (폴리프로필렌, 10.4 x 14.2 x 5.3cm)
+      modelName: 전자레인지 계란후라이 메이커
+      manufacturer: SanadaSeiko / 일본
+      customerServicePhoneNumber: "010XXXXXXXX"

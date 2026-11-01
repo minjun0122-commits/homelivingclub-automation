@@ -1,0 +1,58 @@
+# 꼬꼬 달걀찜기 전자레인지 4구 (오너클랜 W9C142C) — 공급사 제조/수입: 소띠클럽
+# 네이버 등록불가 태그: 계란찜기, 달걀찜기 (2026-10-27 거부됨)
+# 원가: 3,480원 + 배송 3,000원 = 6,480원  (2026-10-27 확인)
+# 껍질째 계란을 넣는 타입 (깨서 넣는 타입 아님), PP, 14 x 14.4 x 13.8cm, 허가 관련: 식품 검역 인증 완료
+
+# 2026-10-27 등록 완료 — 채널상품번호 13834904703 (원상품번호 13773509585)
+already_registered: true
+channel_product_no: 13834904703
+
+ownerclan_code: W9C142C
+order_rule: {}
+
+name: 꼬꼬 전자레인지 계란찜기 4구 삶은계란 달걀찜기 에그쿠커 감자 옥수수
+category_id: 50004772   # 생활/건강>주방용품>조리기구>계란찜기/계란틀
+
+cost: 6480
+price: 8500
+
+tags: [전자레인지계란찜기, 꼬꼬찜기, 계란찜기4구, 계란삶기, 삶은계란, 에그쿠커, 자취템, 자취요리]
+
+stock: 99
+
+images:
+  main: images/eggsteamer/main.jpg
+  detail:
+    - images/eggsteamer/detail_01.jpg
+    - images/eggsteamer/detail_02.jpg
+    - images/eggsteamer/detail_03.jpg
+    - images/eggsteamer/detail_04.jpg
+
+detail_html_top: '<p style="text-align:center;font-size:16px;padding:16px 0;"><b>계란을 껍질째 최대 4개 넣고 물을 부어 전자레인지에 돌리는 찜기예요.</b><br />PP 소재 · 14 x 14.4 x 13.8cm</p>'
+
+naver_detail:
+  manufactureDefineNo: W9C142C
+  naverShoppingSearchInfo:
+    manufacturerName: 소띠클럽
+    catalogMatchingYn: false
+  originAreaInfo:
+    originAreaCode: "0200037"
+    importer: 소띠클럽
+    content: 중국산(소띠클럽)
+    plural: false
+  certificationTargetExcludeContent:
+    kcCertifiedProductExclusionYn: "TRUE"
+  sellerCommentUsable: true
+  sellerCommentContent: 껍질째 넣어 찌는 찜기예요(계란을 깨서 넣는 제품 아님). 전자레인지 출력에 따라 조리 시간이 달라질 수 있으며, 조리 직후에는 뜨거우니 식힌 뒤 열어주세요.
+  productInfoProvidedNotice:
+    productInfoProvidedNoticeType: ETC
+    etc:
+      returnCostReason: "0"
+      noRefundReason: "0"
+      qualityAssuranceStandard: "0"
+      compensationProcedure: "0"
+      troubleShootingContents: "0"
+      itemName: 꼬꼬 달걀찜기 (PP, 14 x 14.4 x 13.8cm)
+      modelName: 꼬꼬 달걀찜기
+      manufacturer: 소띠클럽 / 중국
+      customerServicePhoneNumber: "010XXXXXXXX"

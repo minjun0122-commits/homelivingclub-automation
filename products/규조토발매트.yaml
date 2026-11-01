@@ -1,0 +1,86 @@
+# 설렘하우스 빨아쓰는 규조토 발매트 (오너클랜 WBFC7CB) — 공급사: 설렘하우스 (리뷰 4건 평점 5.0)
+# 원가: 6,480원(멤버십가) + 배송 3,000원 = 9,480원  (2026-10-01 확인)
+# 딱딱한 돌 타입 규조토가 아닌 섬유+규조토 발포층+고무 3중 구조(세탁 가능) — 석면 이슈 있던 돌 타입은 일부러 제외
+# 사이즈: 60 x 40cm (상세 이미지 속 120cm 긴 매트는 '주방매트'로 이 상품 아님)
+
+# 네이버 등록불가 태그: 미끄럼방지매트, 욕실매트, 욕실발판 (2026-10-01 거부됨)
+# 2026-10-01 등록 완료 — 채널상품번호 13783599485 (원상품번호 13722554686)
+already_registered: true
+channel_product_no: 13783599485
+
+ownerclan_code: WBFC7CB
+order_rule: {}
+
+name: 빨아쓰는 소프트 규조토 발매트 세탁기 가능 욕실 화장실 미끄럼방지 물흡수 60x40
+category_id: 50008788   # 생활/건강>욕실용품>욕실발판/욕실매트>욕실발판/매트
+
+cost: 9480
+price: 12900
+
+tags: [규조토발매트, 빨아쓰는규조토, 욕실발매트, 화장실발매트, 물흡수매트, 화장실매트, 자취템, 세탁가능발매트, 현관매트]
+
+options:
+  group_name: 색상
+  items:
+    - { name: 베이지, stock: 99 }
+    - { name: 카키,   stock: 99 }
+    - { name: 블랙,   stock: 99 }
+
+images:
+  main: images/bathmat/main.jpg
+  extra:
+    - images/bathmat/extra_khaki.jpg
+    - images/bathmat/extra_beige.jpg
+    - images/bathmat/extra_black.jpg
+    - images/bathmat/extra_layers.jpg
+    - images/bathmat/extra_1.jpg
+  detail:
+    - images/bathmat/detail_01.jpg
+    - images/bathmat/detail_02.jpg
+    - images/bathmat/detail_03.jpg
+    - images/bathmat/detail_04.jpg
+    - images/bathmat/detail_05.jpg
+    - images/bathmat/detail_06.jpg
+    - images/bathmat/detail_07.jpg
+    - images/bathmat/detail_08.jpg
+    - images/bathmat/detail_09.jpg
+    - images/bathmat/detail_10.jpg
+    - images/bathmat/detail_11.jpg
+    - images/bathmat/detail_12.jpg
+    - images/bathmat/detail_13.jpg
+    - images/bathmat/detail_14.jpg
+    - images/bathmat/detail_15.jpg
+    - images/bathmat/detail_16.jpg
+    - images/bathmat/detail_17.jpg
+    - images/bathmat/detail_18.jpg
+    - images/bathmat/detail_19.jpg
+
+detail_html_top: '<div style="text-align:center;font-size:16px;line-height:1.7;padding:20px 0;"><b style="font-size:19px;">빨아쓰는 규조토 발매트 60 × 40cm</b><br />섬유 + 규조토 발포층 + 논슬립 고무 3중 구조 · 손빨래/세탁기 가능<br />딱딱한 돌 타입이 아니라 깨질 걱정이 없어요.<br /><b>※ 상세 이미지 중 가로로 긴 매트(120cm)는 주방매트 연출 사진이며, 이 상품은 60×40cm 발매트예요.</b></div>'
+
+naver_detail:
+  manufactureDefineNo: WBFC7CB
+  naverShoppingSearchInfo:
+    manufacturerName: 설렘하우스
+    brandName: 설렘하우스
+    catalogMatchingYn: false
+  originAreaInfo:
+    originAreaCode: "0200037"
+    importer: 설렘하우스
+    content: 중국산(설렘하우스)
+    plural: false
+  certificationTargetExcludeContent:
+    kcCertifiedProductExclusionYn: "TRUE"   # 오너클랜 허가 관련: 해당없음
+  sellerCommentUsable: true
+  sellerCommentContent: 60x40cm 발매트입니다(120cm 주방매트 아님). 세탁 후에는 직사광선을 피해 그늘에서 말려주세요. 모니터 설정에 따라 색상 차이가 있을 수 있습니다.
+  productInfoProvidedNotice:
+    productInfoProvidedNoticeType: ETC
+    etc:
+      returnCostReason: "0"
+      noRefundReason: "0"
+      qualityAssuranceStandard: "0"
+      compensationProcedure: "0"
+      troubleShootingContents: "0"
+      itemName: 빨아쓰는 규조토 발매트 60x40cm
+      modelName: 설렘하우스 규조토 발매트
+      manufacturer: 설렘하우스 협력업체 / 중국
+      customerServicePhoneNumber: "010XXXXXXXX"
