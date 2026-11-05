@@ -28,13 +28,13 @@ order_rule:
       - { code: WFMRWJC, option: 옐로우, qty: 1 }
       - { code: WFMRWJC, option: 화이트, qty: 1 }
 
-name: 샴푸 브러시 실리콘 두피 머리감기 브러쉬 샴푸빗 파스텔 4색 커플 세트
+name: 샴푸 브러쉬 실리콘 두피브러쉬 머리감기 샴푸빗 파스텔 4색 택1 2개 세트 선택
 category_id: 50004396   # 화장품/미용>뷰티소품>헤어소품>헤어브러시
 
 cost: 9400
 price: 12900
 
-tags: [샴푸브러시, 샴푸빗, 두피브러시, 실리콘브러시, 머리감기, 샴푸브러쉬, 자취템, 커플선물, 욕실소품]
+tags: [샴푸브러시, 샴푸빗, 머리감기, 샴푸브러쉬, 자취템, 커플선물, 욕실소품, 두피브러쉬, 실리콘샴푸브러쉬]
 
 options:
   group_name: 색상/구성
@@ -67,7 +67,7 @@ images:
     - images/shampoobrush/detail_08.jpg
     - images/shampoobrush/detail_09.jpg
 
-detail_html_top: '<div style="text-align:center;font-size:16px;line-height:1.7;padding:20px 0;"><b style="font-size:19px;">파스텔 샴푸 브러시</b><br />부드러운 실리콘 돌기 31개 · 손에 쥐기 편한 버섯 모양 · 건식/습식 사용<br />사이즈 9.4 × 7 × 6.5cm · ABS + TPR<br />1개 또는 2개 색상 세트로 선택하세요 (2개 세트는 함께 발송돼요)</div>'
+detail_html_top: '<div style="text-align:center;font-size:16px;line-height:1.7;padding:20px 0;"><b style="font-size:19px;">파스텔 샴푸 브러시</b><br />부드러운 실리콘 돌기 31개 · 손에 쥐기 편한 버섯 모양 · 건식/습식 사용<br />사이즈 9.4 × 7 × 6.5cm · ABS + TPR<br />1개 또는 2개 색상 세트로 선택하세요 (2개 세트는 함께 발송돼요)</div><p style="text-align:center;font-size:15px;line-height:1.7;padding:12px 0;color:#555;"><b>혼자 쓰면 1개, 같이 쓰거나 욕실 두 곳에 두려면 2개 세트를 고르세요.</b><br />무료배송 (제주·도서산간 추가 5,000원) · 불량·오배송은 저희가 배송비를 부담해 교환/환불해 드려요 · 단순 변심은 받은 날부터 7일 이내 반품 가능 (반품 배송비 구매자 부담)</p>'
 
 naver_detail:
   manufactureDefineNo: WFMRWJC
@@ -96,3 +96,5 @@ naver_detail:
       modelName: 키밍 마사지 머리빗 KM1165-33
       manufacturer: 키밍 / 중국
       customerServicePhoneNumber: "010XXXXXXXX"
+
+# 2026-11-03 CRO 점검: 대표·상세 이미지를 스토어에서 직접 수정함. 수정 전 정보는 output/backup_* 참고

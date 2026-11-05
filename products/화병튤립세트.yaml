@@ -28,15 +28,15 @@ category_id: 50001806   # 생활/건강>원예/식물>조화 (경쟁 세트 상�
 cost: 13450
 price: 16900
 
-tags: [화병세트, 튤립조화세트, 튤립조화, 미니화병, 조화꽃꽂이, 자취방인테리어, 원룸인테리어, 집들이선물, 감성소품]
+tags: [화병세트, 튤립조화세트, 튤립조화, 미니화병, 자취방인테리어, 원룸인테리어, 집들이선물, 감성소품, 조화꽃]
 
 options:
   group_name: 조합
   items:
-    - { name: 화이트 화병 + 연핑크 튤립, stock: 99 }
-    - { name: 핑크 화병 + 노랑 튤립,   stock: 99 }
-    - { name: 옐로우 화병 + 빨강 튤립, stock: 99 }
-    - { name: 그레이 화병 + 파랑 튤립, stock: 99 }
+    - { name: 화이트 화병 + 연핑크 튤립, stock: 0 }
+    - { name: 핑크 화병 + 노랑 튤립,   stock: 0 }
+    - { name: 옐로우 화병 + 빨강 튤립, stock: 0 }
+    - { name: 그레이 화병 + 파랑 튤립, stock: 0 }
 
 images:
   main: images/vase_tulip_set/white_pink.jpg
@@ -65,7 +65,7 @@ images:
     - images/tulip/src_04.jpg
     - images/tulip/src_d_01_2.jpg
 
-detail_html_top: '<div style="text-align:center;font-size:16px;line-height:1.7;padding:20px 0;"><b style="font-size:19px;">웨이브 미니 화병 1개 + 튤립 조화 3송이 세트</b><br />선택하신 조합대로 화병 1개와 같은 색 튤립 3송이가 구성돼요.<br /><br /><b>※ 화병과 튤립은 서로 다른 곳에서 출고돼 택배 2개로 따로 도착해요.</b><br />화병: 플라스틱 소재, 높이 14.5cm · 폭 12cm (물은 담을 수 없어요)<br />튤립: PU 소재, 줄기 약 34cm · 철사가 들어 있어 구부려 높이를 맞출 수 있어요<br />상세 이미지 중 꽃다발 연출 사진은 여러 송이를 모은 모습이며, 이 상품의 튤립은 3송이예요.</div>'
+detail_html_top: '<p style="text-align:center;font-size:16px;line-height:1.7;padding:12px 0;">상세 사진에 블랙으로 표기된 색상은 옵션의 그레이예요.</p><div style="text-align:center;font-size:16px;line-height:1.7;padding:20px 0;"><b style="font-size:19px;">웨이브 미니 화병 1개 + 튤립 조화 3송이 세트</b><br />선택하신 조합대로 화병 1개와 같은 색 튤립 3송이가 구성돼요.<br /><br /><b>※ 화병과 튤립은 서로 다른 곳에서 출고돼 택배 2개로 따로 도착해요.</b><br />화병: 플라스틱 소재, 높이 14.5cm · 폭 12cm (물은 담을 수 없어요)<br />튤립: PU 소재, 줄기 약 34cm · 철사가 들어 있어 구부려 높이를 맞출 수 있어요<br />상세 이미지 중 꽃다발 연출 사진은 여러 송이를 모은 모습이며, 이 상품의 튤립은 3송이예요.</div>'
 
 naver_detail:
   manufactureDefineNo: WFPOSIT/WFKL6CY   # 품번은 영문·숫자·- _ . / 만 가능
@@ -92,3 +92,5 @@ naver_detail:
       modelName: 웨이브 꽃병 DDMZ14990 + 조화 튤립 x3
       manufacturer: 중국 수입제품
       customerServicePhoneNumber: "010XXXXXXXX"
+
+# 2026-11-03 오너클랜 품절로 스토어 재고 0 처리. 재입고되면 옵션 재고를 되돌릴 것

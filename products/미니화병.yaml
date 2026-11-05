@@ -21,10 +21,10 @@ tags: [미니화병, 웨이브화병, 플라스틱화병, 조화화병, 드라�
 options:
   group_name: 색상
   items:
-    - { name: 화이트, stock: 99 }
-    - { name: 핑크,   stock: 99 }
-    - { name: 옐로우, stock: 99 }
-    - { name: 그레이, stock: 99 }   # 오너클랜 옵션명은 "블랙"이지만 실제 색은 진회색 — 주문 시 "블랙"으로 발주
+    - { name: 화이트, stock: 0 }
+    - { name: 핑크,   stock: 0 }
+    - { name: 옐로우, stock: 0 }
+    - { name: 그레이, stock: 0 }   # 오너클랜 옵션명은 "블랙"이지만 실제 색은 진회색 — 주문 시 "블랙"으로 발주
 
 images:
   main: images/minivase/main.jpg
@@ -53,7 +53,7 @@ images:
     - images/minivase/detail_15.jpg
     - images/minivase/detail_16.jpg
 
-detail_html_top: '<p style="text-align:center;font-size:16px;padding:16px 0;"><b>※ 플라스틱 소재로 물을 직접 담을 수 없어요.</b><br />조화·드라이플라워 전용 화병입니다. (높이 14.5cm / 폭 12cm)</p>'
+detail_html_top: '<p style="text-align:center;font-size:16px;line-height:1.7;padding:12px 0;">상세 사진에 블랙으로 표기된 색상은 옵션의 그레이예요.</p><p style="text-align:center;font-size:16px;padding:16px 0;"><b>※ 플라스틱 소재로 물을 직접 담을 수 없어요.</b><br />조화·드라이플라워 전용 화병입니다. (높이 14.5cm / 폭 12cm)</p>'
 
 # 배송 / A/S 는 store_defaults.yaml 공통값 사용
 
@@ -84,3 +84,5 @@ naver_detail:
       modelName: DDMZ14990
       manufacturer: 머피스토어_협력사 / 중국
       customerServicePhoneNumber: "010XXXXXXXX"
+
+# 2026-11-03 오너클랜 품절로 스토어 재고 0 처리. 재입고되면 옵션 재고를 되돌릴 것

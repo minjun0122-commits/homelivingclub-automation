@@ -1,0 +1,38 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(./.env)",
+      "Edit(./.env)"
+    ]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Read|Edit|Write|MultiEdit|NotebookEdit|Grep|Glob|Bash|PowerShell",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python",
+            "args": ["C:\\path\\to\\homelivingclub-uploader\\.claude\\hooks\\guard.py", "env"],
+            "timeout": 10,
+            "onFailure": "block"
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write|MultiEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python",
+            "args": ["C:\\path\\to\\homelivingclub-uploader\\.claude\\hooks\\guard.py", "yaml"],
+            "timeout": 60,
+            "statusMessage": "상품 YAML 자동 검사 중..."
+          }
+        ]
+      }
+    ]
+  }
+}

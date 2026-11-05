@@ -1,5 +1,5 @@
 # 튤립 조화 3송이 세트 (오너클랜 WFKL6CY — 공급사 파니펀, 한 송이 단위 상품)
-# ⚠️ 발주 방법: 주문 1건 = 오너클랜에 "같은 색상 3개" 주문 (배송비 3,000원은 묶음배송이라 1번만)
+# ⚠️ 발주 방법: 3송이 옵션 = 오너클랜 같은 색상 3개, 6송이 옵션 = 같은 색상 6개 (배송비 3,000원은 묶음배송이라 1번만)
 # 원가: 1,260원 × 3 + 배송비 3,000원 = 6,780원  (2026-09-29 확인, 멤버십가 1,190원이면 6,570원)
 # 줄기 34cm, PU 소재, 철사 내장(구부림 가능), 원산지 중국, 인증·허가 해당없음 (공급사 상세 고시 기준)
 
@@ -9,22 +9,34 @@ already_registered: true
 ownerclan_code: WFKL6CY
 channel_product_no: 13780208724
 order_rule:
-  qty_per_unit: 3          # 1세트 팔리면 오너클랜에 같은 색 3개 발주
-name: 튤립 조화 3송이 세트 인테리어 꽃 PU 생화같은 인조꽃 자취방 꽃꽂이
+  option_orders:   # 6송이 원가 10,560원
+    연핑크 3송이: [{ code: WFKL6CY, option: 연핑크, qty: 3 }]
+    노랑 3송이: [{ code: WFKL6CY, option: 노랑, qty: 3 }]
+    빨강 3송이: [{ code: WFKL6CY, option: 빨강, qty: 3 }]
+    파랑 3송이: [{ code: WFKL6CY, option: 파랑, qty: 3 }]
+    연핑크 6송이: [{ code: WFKL6CY, option: 연핑크, qty: 6 }]
+    노랑 6송이: [{ code: WFKL6CY, option: 노랑, qty: 6 }]
+    빨강 6송이: [{ code: WFKL6CY, option: 빨강, qty: 6 }]
+    파랑 6송이: [{ code: WFKL6CY, option: 파랑, qty: 6 }]
+name: 튤립 조화 3송이 6송이 세트 인테리어 꽃 PU 생화같은 인조꽃 자취방 꽃꽂이
 category_id: 50001806   # 생활/건강>원예/식물>조화
 
 cost: 6780
 price: 9900
 
-tags: [튤립조화, 조화튤립, 인조꽃, 조화꽃꽂이, 자취방인테리어, 원룸인테리어, 화병꽃, 감성소품, 집들이선물]
+tags: [튤립조화, 인조꽃, 자취방인테리어, 원룸인테리어, 화병꽃, 감성소품, 집들이선물, 조화꽃, 인테리어조화]
 
 options:
-  group_name: 색상 (3송이)
+  group_name: 색상/수량
   items:
-    - { name: 연핑크, stock: 99 }
-    - { name: 노랑,   stock: 99 }
-    - { name: 빨강,   stock: 99 }
-    - { name: 파랑,   stock: 99 }
+    - { name: 연핑크 3송이, stock: 99 }
+    - { name: 노랑 3송이, stock: 99 }
+    - { name: 빨강 3송이, stock: 99 }
+    - { name: 파랑 3송이, stock: 99 }
+    - { name: 연핑크 6송이, stock: 99, extra_price: 4900 }
+    - { name: 노랑 6송이, stock: 99, extra_price: 4900 }
+    - { name: 빨강 6송이, stock: 99, extra_price: 4900 }
+    - { name: 파랑 6송이, stock: 99, extra_price: 4900 }
 
 images:
   main: images/tulip/main.jpg
@@ -51,7 +63,7 @@ images:
     - images/tulip/src_d_04_1.jpg
     - images/tulip/src_d_04_2.jpg
 
-detail_html_top: '<div style="text-align:center;font-size:16px;line-height:1.7;padding:20px 0;"><b style="font-size:19px;">※ 같은 색 튤립 3송이 세트 상품입니다</b><br />연출 사진의 꽃다발은 여러 송이를 모은 모습이에요.<br />아래 상세 이미지의 "한 송이" 표기는 1송이 기준 설명이며, 이 상품은 3송이가 함께 배송됩니다.<br /><br />줄기 길이 약 34cm · PU 소재 · 줄기 속 철사로 구부려 높이 조절 가능<br />(홈리빙클럽 웨이브 미니 화병처럼 낮은 화병에는 줄기를 구부려 연출해 주세요)</div>'
+detail_html_top: '<p style="text-align:center;font-size:16px;line-height:1.7;padding:12px 0;"><b>같은 색으로 3송이 또는 6송이 중 고르세요.</b><br />6송이는 3송이보다 4,900원 더해요.</p><div style="text-align:center;font-size:16px;line-height:1.7;padding:20px 0;"><b style="font-size:19px;">※ 같은 색 튤립 3송이 또는 6송이 세트 상품입니다</b><br />연출 사진의 꽃다발은 여러 송이를 모은 모습이에요.<br />아래 상세 이미지의 "한 송이" 표기는 1송이 기준 설명이며, 이 상품은 고른 수량(3송이 또는 6송이)이 함께 배송됩니다.<br /><br />줄기 길이 약 34cm · PU 소재 · 줄기 속 철사로 구부려 높이 조절 가능<br />(홈리빙클럽 웨이브 미니 화병처럼 낮은 화병에는 줄기를 구부려 연출해 주세요)</div><p style="text-align:center;font-size:15px;line-height:1.7;padding:12px 0;color:#555;"><b>낮은 화병에는 줄기 속 철사를 구부려 높이를 맞추세요.</b><br />무료배송 (제주·도서산간 추가 5,000원) · 불량·오배송은 저희가 배송비를 부담해 교환/환불해 드려요 · 단순 변심은 받은 날부터 7일 이내 반품 가능 (반품 배송비 구매자 부담)</p>'
 
 # 배송 / A/S 는 store_defaults.yaml 공통값 사용
 
@@ -67,7 +79,7 @@ naver_detail:
   certificationTargetExcludeContent:
     kcCertifiedProductExclusionYn: "TRUE"
   sellerCommentUsable: true
-  sellerCommentContent: 같은 색 튤립 3송이 세트입니다(연출 사진의 꽃다발은 여러 송이를 모은 모습). 줄기 약 34cm, 측정 방법에 따라 1~2cm 오차가 있을 수 있으며 모니터 설정에 따라 색상이 다르게 보일 수 있습니다.
+  sellerCommentContent: 같은 색 튤립 3송이 또는 6송이 세트입니다(연출 사진의 꽃다발은 여러 송이를 모은 모습). 줄기 약 34cm, 측정 방법에 따라 1~2cm 오차가 있을 수 있으며 모니터 설정에 따라 색상이 다르게 보일 수 있습니다.
   productInfoProvidedNotice:
     productInfoProvidedNoticeType: ETC
     etc:
@@ -76,7 +88,7 @@ naver_detail:
       qualityAssuranceStandard: "0"
       compensationProcedure: "0"
       troubleShootingContents: "0"
-      itemName: 튤립 조화 3송이 세트 (PU, 줄기 약 34cm)
-      modelName: 조화 튤립 한 송이 x 3
+      itemName: 튤립 조화 3송이 또는 6송이 세트 (PU, 줄기 약 34cm)
+      modelName: 조화 튤립 한 송이 x 3 또는 x 6
       manufacturer: 중국 수입제품
       customerServicePhoneNumber: "010XXXXXXXX"

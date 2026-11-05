@@ -17,7 +17,7 @@ category_id: 50008788   # 생활/건강>욕실용품>욕실발판/욕실매트>�
 cost: 9480
 price: 12900
 
-tags: [규조토발매트, 빨아쓰는규조토, 욕실발매트, 화장실발매트, 물흡수매트, 화장실매트, 자취템, 세탁가능발매트, 현관매트]
+tags: [규조토발매트, 빨아쓰는규조토, 욕실발매트, 화장실발매트, 물흡수매트, 화장실매트, 자취템, 현관매트, 규조토매트]
 
 options:
   group_name: 색상
@@ -55,7 +55,7 @@ images:
     - images/bathmat/detail_18.jpg
     - images/bathmat/detail_19.jpg
 
-detail_html_top: '<div style="text-align:center;font-size:16px;line-height:1.7;padding:20px 0;"><b style="font-size:19px;">빨아쓰는 규조토 발매트 60 × 40cm</b><br />섬유 + 규조토 발포층 + 논슬립 고무 3중 구조 · 손빨래/세탁기 가능<br />딱딱한 돌 타입이 아니라 깨질 걱정이 없어요.<br /><b>※ 상세 이미지 중 가로로 긴 매트(120cm)는 주방매트 연출 사진이며, 이 상품은 60×40cm 발매트예요.</b></div>'
+detail_html_top: '<div style="text-align:center;font-size:16px;line-height:1.7;padding:20px 0;"><b style="font-size:19px;">빨아쓰는 규조토 발매트 60 × 40cm</b><br />섬유 + 규조토 발포층 + 논슬립 고무 3중 구조 · 손빨래/세탁기 가능<br />딱딱한 돌 타입이 아니라 깨질 걱정이 없어요.<br /><b>※ 상세 이미지 중 가로로 긴 매트(120cm)는 주방매트 연출 사진이며, 이 상품은 60×40cm 발매트예요.</b></div><p style="text-align:center;font-size:15px;line-height:1.7;padding:12px 0;color:#555;"><b>욕실 앞 한 장이면 충분해요. 색은 베이지·카키·블랙 중 고르세요.</b><br />무료배송 (제주·도서산간 추가 5,000원) · 불량·오배송은 저희가 배송비를 부담해 교환/환불해 드려요 · 단순 변심은 받은 날부터 7일 이내 반품 가능 (반품 배송비 구매자 부담)</p>'
 
 naver_detail:
   manufactureDefineNo: WBFC7CB
@@ -84,3 +84,5 @@ naver_detail:
       modelName: 설렘하우스 규조토 발매트
       manufacturer: 설렘하우스 협력업체 / 중국
       customerServicePhoneNumber: "010XXXXXXXX"
+
+# 2026-11-03 CRO 점검: 대표·상세 이미지를 스토어에서 직접 수정함. 수정 전 정보는 output/backup_* 참고

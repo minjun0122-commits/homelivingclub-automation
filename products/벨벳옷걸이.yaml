@@ -26,7 +26,7 @@ category_id: 50002472   # 생활/건강>수납/정리용품>옷걸이>일반옷�
 cost: 8050
 price: 9900
 
-tags: [벨벳옷걸이, 슬림옷걸이, 논슬립옷걸이, 미끄럼방지옷걸이, 회전옷걸이, 옷장정리, 자취템, 공간절약옷걸이, 니트옷걸이]
+tags: [벨벳옷걸이, 슬림옷걸이, 논슬립옷걸이, 미끄럼방지옷걸이, 회전옷걸이, 옷장정리, 자취템, 니트옷걸이, 어깨뿔방지옷걸이]
 
 options:
   group_name: 색상/수량
@@ -60,7 +60,7 @@ images:
     - images/hanger/detail_12.jpg
     - images/hanger/detail_13.jpg
 
-detail_html_top: '<div style="text-align:center;font-size:16px;line-height:1.7;padding:20px 0;"><b style="font-size:19px;">두께 0.5cm 벨벳 슬림 옷걸이</b><br />옷이 미끄러지지 않는 벨벳 소재 · 360° 회전고리 · 어깨 홈 · 하단 바지걸이<br />사이즈: 가로 41.8cm × 높이 23cm × 두께 0.5cm<br />10개 / 20개 중 선택 (20개는 10개입 2묶음으로 발송돼요)</div>'
+detail_html_top: '<p style="text-align:center;font-size:16px;line-height:1.7;padding:12px 0;"><b>10개 9,900원, 개당 990원 · 20개 14,800원, 개당 740원</b> (할인 전 가격 기준)</p><div style="text-align:center;font-size:16px;line-height:1.7;padding:20px 0;"><b style="font-size:19px;">두께 0.5cm 벨벳 슬림 옷걸이</b><br />옷이 미끄러지지 않는 벨벳 소재 · 360° 회전고리 · 어깨 홈 · 하단 바지걸이<br />사이즈: 가로 41.8cm × 높이 23cm × 두께 0.5cm<br />10개 / 20개 중 선택 (20개는 10개입 2묶음으로 발송돼요)</div><p style="text-align:center;font-size:15px;line-height:1.7;padding:12px 0;color:#555;"><b>옷장 일부만 바꿔 보려면 10개, 옷장 전체를 바꾸려면 20개를 고르세요.</b><br />무료배송 (제주·도서산간 추가 5,000원) · 불량·오배송은 저희가 배송비를 부담해 교환/환불해 드려요 · 단순 변심은 받은 날부터 7일 이내 반품 가능 (반품 배송비 구매자 부담)</p>'
 
 naver_detail:
   manufactureDefineNo: W9BF414

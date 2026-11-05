@@ -7,17 +7,26 @@ already_registered: true
 channel_product_no: 13834904036
 
 ownerclan_code: WFPL5G3
-order_rule: {}
+order_rule:
+  option_orders:
+    1개: [{ code: WFPL5G3, option: 옵션 없음, qty: 1 }]
+    2개: [{ code: WFPL5G3, option: 옵션 없음, qty: 2 }]
 
-name: 일본산 전자레인지 계란후라이 메이커 1구 에그쿠커 자취 간편 계란요리
+name: 일본산 전자레인지 계란후라이 메이커 1구 에그쿠커 전자렌지 계란후라이틀 자취요리
 category_id: 50004772   # 생활/건강>주방용품>조리기구>계란찜기/계란틀
 
 cost: 6200
 price: 7900
 
-tags: [계란후라이메이커, 전자레인지계란후라이, 에그메이커, 에그쿠커, 전자레인지계란, 자취요리, 자취템, 계란요리, 일본주방용품]
+tags: [전자레인지계란후라이, 에그메이커, 에그쿠커, 전자레인지계란, 자취요리, 자취템, 계란요리, 일본주방용품, 전자렌지계란후라이, 계란후라이틀]
 
 stock: 99
+
+options:
+  group_name: 수량
+  items:
+    - { name: 1개, stock: 99 }
+    - { name: 2개, stock: 99, extra_price: 3900 }   # 원가 9,400원, 오너클랜 2개 발주
 
 images:
   main: images/eggfry/main.jpg
@@ -35,7 +44,7 @@ images:
     - images/eggfry/detail_08.jpg
     - images/eggfry/detail_09.jpg
 
-detail_html_top: '<p style="text-align:center;font-size:16px;padding:16px 0;"><b>계란 1개를 깨서 넣고 뚜껑 덮어 전자레인지에 돌리는 1구 계란후라이 메이커예요.</b><br />일본산 · 폴리프로필렌 · 10.4 x 14.2 x 5.3cm · 80g</p>'
+detail_html_top: '<p style="text-align:center;font-size:16px;line-height:1.7;padding:12px 0;"><b>기름도 가스불도 없이, 계란 1개 전자레인지 후라이</b></p><p style="text-align:center;font-size:16px;padding:16px 0;"><b>계란 1개를 깨서 넣고 뚜껑 덮어 전자레인지에 돌리는 1구 계란후라이 메이커예요.</b><br />일본산 · 폴리프로필렌 · 10.4 x 14.2 x 5.3cm · 80g</p><p style="text-align:center;font-size:15px;line-height:1.7;padding:12px 0;color:#555;"><b>1인분용 1구예요. 계란 1개씩 조리해요.</b><br />무료배송 (제주·도서산간 추가 5,000원) · 불량·오배송은 저희가 배송비를 부담해 교환/환불해 드려요 · 단순 변심은 받은 날부터 7일 이내 반품 가능 (반품 배송비 구매자 부담)</p>'
 
 naver_detail:
   manufactureDefineNo: WFPL5G3
@@ -63,3 +72,5 @@ naver_detail:
       modelName: 전자레인지 계란후라이 메이커
       manufacturer: SanadaSeiko / 일본
       customerServicePhoneNumber: "010XXXXXXXX"
+
+# 2026-11-03 CRO 점검: 대표·상세 이미지를 스토어에서 직접 수정함. 수정 전 정보는 output/backup_* 참고

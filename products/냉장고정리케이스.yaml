@@ -24,7 +24,7 @@ category_id: 50004771   # 생활/건강>주방용품>주방수납용품>주방�
 cost: 14810
 price: 19900
 
-tags: [냉장고정리, 냉장고정리용기, 냉장고정리함, 냉장고수납, 투명정리함, 냉장고트레이, 자취템, 주방정리, 야채보관용기]
+tags: [냉장고정리, 냉장고정리용기, 냉장고정리함, 냉장고수납, 투명정리함, 냉장고트레이, 자취템, 주방정리, 야채보관용기, 냉장고정리트레이]
 
 options:
   group_name: 타입
@@ -53,7 +53,7 @@ images:
     - images/fridge/detail_08.jpg
     - images/fridge/detail_09.jpg
 
-detail_html_top: '<div style="text-align:center;font-size:16px;line-height:1.7;padding:20px 0;"><b style="font-size:19px;">투명 냉장고 정리 케이스 3개 세트</b><br />선택하신 타입으로 3개가 구성돼요. (뚜껑 포함 · PET 소재)<br />슬림형 29.8×9.9×5.3cm / 와이드 낮은형 29.8×20.5×5.3cm / 와이드 높은형 29.8×20.5×10.3cm<br />상세 사진 속 여러 크기 조합은 연출 사진이에요. 냉장고 칸 크기를 먼저 재보고 골라주세요.</div>'
+detail_html_top: '<div style="text-align:center;font-size:16px;line-height:1.7;padding:20px 0;"><b style="font-size:19px;">투명 냉장고 정리 케이스 3개 세트</b><br />선택하신 타입으로 3개가 구성돼요. (뚜껑 포함 · PET 소재)<br />슬림형 29.8×9.9×5.3cm / 와이드 낮은형 29.8×20.5×5.3cm / 와이드 높은형 29.8×20.5×10.3cm<br />상세 사진 속 여러 크기 조합은 연출 사진이에요. 냉장고 칸 크기를 먼저 재보고 골라주세요.</div><p style="text-align:center;font-size:15px;line-height:1.7;padding:12px 0;color:#555;"><b>칸 폭부터 재 보세요. 좁은 칸은 슬림형, 넓은 칸은 와이드형, 높은 식재료는 와이드 높은형이에요.</b><br />무료배송 (제주·도서산간 추가 5,000원) · 불량·오배송은 저희가 배송비를 부담해 교환/환불해 드려요 · 단순 변심은 받은 날부터 7일 이내 반품 가능 (반품 배송비 구매자 부담)</p>'
 
 naver_detail:
   manufactureDefineNo: WFMRWHZ
